@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Suspicious user-agent regular expressions
@@ -2210,11 +2210,13 @@ ZeroStresser Botnet
 # Reference: https://unit42.paloaltonetworks.com/trident-ursa/
 # Reference: https://twitter.com/WhichbufferArda/status/1616895455182442497
 # Reference: https://research.checkpoint.com/2023/malware-spotlight-into-the-trash-analyzing-litterdrifter/
+# Reference: https://securityintelligence.com/x-force/hive0051-all-in-triple-threat/
 
 \bjosephine\b
 \bsnventor\b
 \binsufficient\b
 ::\/\.josephine\/
+;;\/\.jumper\/
 ;;\/\.justly\/
 ;;\/\.insufficient\/
 ;;\/\.snventor\/
@@ -2496,6 +2498,61 @@ sarabi xor
 # Reference: https://www.virustotal.com/gui/file/c2a095bf5b04c0ce7af29aebab583b31d76475b3e15762ba5db956b0a3f717d5/detection
 
 \/xevil\b
+
+# Reference: https://x.com/naumovax/status/1817905495824327144
+
+User-Agent:Mozilla
+
+# Reference: https://x.com/malwrhunterteam/status/1818577746861199398
+
+\bMALCJS\b
+
+# Reference: https://x.com/g0njxa/status/1829177645348860120
+
+NIKMOK
+
+# Reference: https://x.com/Jane_0sint/status/1829451117337399719
+# Reference: https://app.any.run/tasks/4a153e23-21c4-4001-93e1-c0aa1ea4e261
+
+Diamotrix
+
+# Reference: https://x.com/Jane_0sint/status/1829452981168718017
+# Reference: https://app.any.run/tasks/2296c79b-a1bb-4f42-b543-ece52d241372
+
+NuclearBot
+
+# Reference: https://tria.ge/240928-zfp1csyckc/behavioral1
+
+Cherax-Loader
+
+# Reference: https://www.sentinelone.com/labs/bluenoroff-hidden-risk-threat-actor-targets-macs-with-fake-crypto-news-and-novel-persistence/
+
+cur1-agent
+
+# Reference: https://x.com/johnk3r/status/1866144119686602887
+
+AdvancedInstaller
+
+# Reference: https://x.com/abuse_ch/status/1867512002483978242
+
+President
+PresidentPutin
+
+# Reference: https://medium.com/@TomiwaAmuda/unveiling-a-sophisticated-phishing-attack-159a47fe2f18
+
+Zoomer
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-30-v10819/2306
+
+FlappyBird
+UNK_FlappyBird
+
+# Reference: https://x.com/naumovax/status/1892941777125966035
+# Reference: https://www.virustotal.com/gui/file/00407ce9ed73474cd85562bf41701ac98e49af2b0f8db2be64f9200a435728b7/detection
+# Reference: https://www.virustotal.com/gui/file/003b014f596ac7e497000ce6825d7dd1731060664e196547819de87b1beeaa0e/detection
+
+\AUSPFR\Z
+UNKNOWNSPFR
 
 # Misc
 

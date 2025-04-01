@@ -590,6 +590,7 @@ This software is provided under a MIT License. See the accompanying [LICENSE](ht
 
 * Detect attacks on your network with Maltrail, Linux Magazine, 2022 ([Annotation](https://www.linux-magazine.com/Issues/2022/258/Maltrail))
 * Best Cyber Threat Intelligence Feeds ([SilentPush Review, 2022](https://www.silentpush.com/blog/best-cyber-threat-intelligence-feeds))
+* Research on Network Malicious Traffic Detection System Based on Maltrail ([Nanotechnology Perceptions, ISSN 1660-6795, 2024](https://nano-ntp.com/index.php/nano/article/view/1915/1497))
 
 ## Blacklist
 
@@ -614,15 +615,18 @@ This software is provided under a MIT License. See the accompanying [LICENSE](ht
 * [D4 Project](https://www.d4-project.org/2019/09/25/maltrail-integration.html)
 * [BlackArch Linux](https://github.com/BlackArch/blackarch/blob/master/packages/maltrail/PKGBUILD)
 * [Validin LLC](https://twitter.com/ValidinLLC/status/1719666086390517762)
+* [Maltrail Add-on for Splunk](https://splunkbase.splunk.com/app/7211)
 * [GScan](https://github.com/grayddq/GScan) <sup>1</sup>
 * [MalwareWorld](https://www.malwareworld.com/) <sup>1</sup>
 * [oisd | domain blocklist](https://oisd.nl/?p=inc) <sup>1</sup>
 * [NextDNS](https://github.com/nextdns/metadata/blob/e0c9c7e908f5d10823b517ad230df214a7251b13/security/threat-intelligence-feeds.json) <sup>1</sup>
 * [NoTracking](https://github.com/notracking/hosts-blocklists/blob/master/SOURCES.md) <sup>1</sup>
-* [mobileAudit](https://github.com/mpast/mobileAudit#environment-variables) <sup>1</sup>
+* [OWASP Mobile Audit](https://github.com/mpast/mobileAudit#environment-variables) <sup>1</sup>
 * [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF/commit/12b07370674238fa4281fc7989b34decc2e08876) <sup>1</sup>
 * [pfBlockerNG-devel](https://github.com/pfsense/FreeBSD-ports/blob/devel/net/pfSense-pkg-pfBlockerNG-devel/files/usr/local/www/pfblockerng/pfblockerng_feeds.json) <sup>1</sup>
 * [Sansec eComscan](https://sansec.io/kb/about-ecomscan/ecomscan-license)<sup>1</sup>
-* [Palo Alto Networks Cortex XSOAR](https://xsoar.pan.dev/docs/reference/integrations/github-maltrail-feed)<sup>1</sup>
+* [Palo Alto Networks Cortex XSOAR](https://xsoar.pan.dev/docs/reference/integrations/github-maltrail-feed)<sup>2</sup>
  
 <sup>1</sup> Using (only) trails
+
+<sup>2</sup> Connector to trails (only)

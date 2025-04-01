@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Note: https://malpedia.caad.fkie.fraunhofer.de/details/py.responder
@@ -2150,3 +2150,94 @@ http://20.25.175.214
 65.109.183.189:443
 77.221.154.30:445
 95.164.7.183:445
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-08-03)
+
+136.40.23.27:445
+138.197.77.44:445
+178.23.190.92:445
+18.201.53.152:445
+18.237.88.73:445
+194.113.73.38:445
+3.249.18.15:445
+31.214.157.167:445
+35.90.85.152:445
+52.163.216.209:445
+67.219.98.156:445
+77.232.138.106:443
+83.136.252.181:445
+91.201.214.204:443
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-08-18)
+
+http://20.14.107.239
+http://4.227.79.100
+109.248.6.229:445
+123.253.111.56:443
+176.105.252.150:443
+185.23.253.203:443
+185.245.43.120:445
+193.143.1.180:443
+46.101.194.21:443
+54.245.187.223:445
+68.183.48.144:445
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-08-24)
+
+http://4.236.37.27
+3.252.25.98:445
+34.225.66.209:445
+35.238.17.229:445
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-09-08)
+
+135.181.220.78:445
+167.179.81.6:443
+176.34.166.126:445
+194.113.72.99:445
+194.182.164.134:443
+91.92.245.123:443
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-10-13)
+
+http://4.227.24.59
+185.203.217.167:443
+44.192.90.142:443
+67.219.108.21:445
+78.141.210.179:445
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-11-10)
+
+http://104.238.60.106
+http://4.236.36.201
+104.238.60.106:443
+138.197.164.147:445
+165.227.164.100:443
+209.151.151.185:445
+5.2.77.209:445
+83.136.251.214:445
+89.117.62.45:445
+90.169.205.35:445
+94.237.55.3:445
+94.237.88.122:445
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-90day.csv (# 2025-01-02)
+
+http://13.213.43.93
+http://167.99.224.203
+http://20.14.109.99
+http://39.96.125.239
+152.167.60.123:443
+165.232.94.101:443
+167.99.224.203:443
+176.228.27.214:443
+193.37.215.111:445
+201.137.71.239:443
+3.10.251.35:445
+34.244.179.71:445
+34.244.85.44:445
+34.245.203.232:445
+39.96.125.239:443
+79.116.73.47:443
+88.80.145.107:445
+89.251.22.47:445

@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://twitter.com/MichalKoczwara/status/1601324821614194688
@@ -177,6 +177,69 @@ miicrossofftonline.nl
 
 xpfdoc0365090.com
 apps.xpfdoc0365090.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/unverified/IPPortC2s-30day.csv (# 2024-09-22)
+
+103.47.226.152:3333
+134.209.32.59:3333
+137.184.38.108:3333
+137.184.53.6:3333
+138.197.133.22:4000
+147.182.133.204:3333
+161.35.232.141:4000
+167.71.81.157:3333
+170.64.224.234:4000
+212.111.43.6:3333
+
+# Reference: https://threatfox.abuse.ch/browse/tag/EvilGinx/ (# 2024-09-22)
+
+account.driddex.shop
+amazon.testfish.dosoos.com
+apis.accountonline.live
+events.api.georgicaautoholding.com
+jobsprogress.pro
+login.monmt.com
+mailsession.com
+monmt.com
+mrdiy.diy
+mrdyi.store
+newscom.today
+o365.zicar.info
+outlook.adminstream.org
+outlook.mailsession.com
+perfectogruop.net
+session.mailsession.com
+
+# Reference: https://threatfox.abuse.ch/browse/tag/EvilGinx/ (# 2024-10-13)
+
+134.209.32.140:3333
+134.209.40.17:3333
+137.184.83.183:4000
+161.35.11.78:4000
+161.35.4.145:4000
+165.22.185.225:3333
+167.99.145.60:3333
+46.105.63.11:3333
+62.84.102.226:3333
+85.119.82.36:3333
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-90day.csv (# 2025-01-02)
+
+142.93.165.129:3333
+143.110.149.242:4000
+146.19.254.74:3333
+154.213.187.9:4444
+159.223.245.31:3333
+161.35.67.226:3333
+163.5.160.51:443
+18.117.79.177:4444
+192.34.59.54:3333
+194.62.167.248:3333
+209.127.255.68:3333
+23.94.148.18:443
+34.71.33.30:3333
+45.56.69.210:3333
+93.95.228.242:3333
 
 # Generic
 

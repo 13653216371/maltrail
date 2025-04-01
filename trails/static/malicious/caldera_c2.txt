@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://twitter.com/ViriBack/status/1713714868564394336
@@ -45,7 +45,6 @@ http://96.127.41.109
 118.31.33.84:8888
 119.96.233.154:8888
 121.40.81.3:8888
-121.5.140.12906
 121.5.140.129:8888
 128.140.41.134:8443
 128.140.41.134:8888
@@ -53,7 +52,6 @@ http://96.127.41.109
 129.146.129.142:8443
 129.146.129.142:8888
 129.151.255.193:8888
-129.192.83.18782
 13.38.80.131:443
 13.40.29.32:8888
 13.43.10.182:8888

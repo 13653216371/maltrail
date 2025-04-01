@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://blog.alyac.co.kr/2347
@@ -3872,6 +3872,7 @@ premcloa.shop
 /BB.ps1
 /Invoke-CustomKatz.ps1
 /Invoke-Mimikatz.ps1
+/Invoke-Mimikatz2.ps1
 /powercat.ps1
 /shell.hta
 /shell.ps1
@@ -4484,96 +4485,6 @@ g1thubassets.com
 /xOykYWEbDK4zqD.php
 /xZ7MnwtJIAkN5hy.php
 /zDz0PTXDToNLA.php
-
-# Reference: https://twitter.com/MaelSecurity/status/1388976425504497669
-# Reference: https://twitter.com/MaelSecurity/status/1388977826431438851
-# Reference: https://www.virustotal.com/gui/ip-address/139.45.197.236/relations
-
-1phads.com
-abbronzongor.com
-abdurantom.com
-agavanilliteom.com
-amarceusan.com
-ammankeyan.com
-atmetagrossan.com
-becuboneor.com
-bejolteonor.com
-beludicolor.com
-beonixom.com
-betnoctowlor.com
-betshucklean.com
-billionstarads.com
-blatwalm.com
-buylnk.com
-cobalten.com
-constintptr.com
-couptoug.net
-dolohen.com
-domankeyan.com
-done.witchcraftcash.com
-dooloust.net
-ducmissy.com
-dupelipperan.com
-dutorterraom.com
-eefoathy.com
-eikegolehem.com
-glixaing.com
-go.deliverymodo.com
-go.mobtrks.com
-go.oclaserver.com
-grimsaiy.com
-hemtatch.net
-hothoomu.net
-ichimaip.net
-inhonedgean.com
-itroggenrolaa.com
-jewhouca.net
-jomtingi.net
-kikoosso.net
-louchees.net
-luxlnk.com
-mobpushup.com
-my.rtmark.net
-offalakazaman.com
-ofgogoatan.com
-omareeper.com
-onclkds.com
-onsolrockon.com
-onstunkyr.com
-opgolan.com
-oufauthy.net
-ousseghu.net
-overgalladean.com
-ozongees.com
-pheghoug.net
-phooreew.net
-poosoahe.com
-prestoris.com
-ravaquinal.com
-riluaneth.com
-shunguts.com
-storylnk.com
-stremanp.com
-survey2you.com
-takelnk.com
-tozoruaon.com
-unelekidan.com
-unrotomon.com
-upshroomishtor.com
-uselnk.com
-vexacion.com
-vigraghe.net
-whihauve.net
-whowhipi.net
-wonderlandads.com
-ww2.ceesty.com
-ww2.clkmein.com
-ww2.corneey.com
-ww2.destyy.com
-ww2.festyy.com
-ww2.gestyy.com
-ww2.sh.st
-yttompthree.com
 
 # Reference: https://gist.github.com/silence-is-best/852a1c7c7dcf29fdc8d5df73433e7676
 
@@ -6390,43 +6301,6 @@ wildhottiegirls.com
 
 /2455818bc570ff.php
 
-# Reference: https://twitter.com/wwp96/status/1628273497708326912
-# Reference: https://blog.sekoia.io/stealc-a-copycat-of-vidar-and-raccoon-infostealers-gaining-in-popularity-part-1/
-# Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2024-01-12-IOCs-from-StealC-activity.txt
-
-/0b92e7ab19e861f9.php
-/0d8af8f06ba4b880.php
-/108e010e8f91c38c.php
-/201a735ed890db75.php
-/273d9c8034a95cb4.php
-/2fca4d4264af2833.php
-/30257e4c371b49a4.php
-/413a030d85acf448.php
-/6259fdc16222e061.php
-/6842f013779f3d08.php
-/752e382b4dcf5e3f.php
-/7a957ef6cc168ff6.php
-/8621de5ba9a36454.php
-/8c3498a763cc5e26.php
-/920475a59bac849d.php
-/94903f819d758732.php
-/984dd96064cb23d7.php
-/99210de056092a58.php
-/9b1668f28bd265e2.php
-/9b53fb902ecbf12d.php
-/a066a53ea1064ac7.php
-/a17861b9cb6f1a53.php
-/bca98681abf8e1ab.php
-/bef7fb05c9ef6540.php
-/c1377b94d43eacea.php
-/ced268c0bcc9de5f.php
-/d4e186a7092be5c7.php
-/d8ab11e9f7bc9c13.php
-/de4846fc29f26952.php
-/e2d7d29621e1052a.php
-/f0b7e3704c0051f9.php
-/f9f76ae4bb7811d9.php
-
 # Reference: https://twitter.com/malwrhunterteam/status/1628482090114203649
 
 /legitprogramwink.hta
@@ -6866,269 +6740,6 @@ tpc.cdn-linkedin.info
 # Reference: https://twitter.com/petrovic082/status/1699766482517798930
 
 /hhhhhhhhhhhhhhhh.hta
-
-# Reference: https://threatfox.abuse.ch/browse/malware/win.stealc/
-# Reference: https://github.com/Gi7w0rm/MalwareConfigLists/blob/main/stealc/stealc_c2s_2022_to_2023.txt
-# Reference: https://github.com/executemalware/Malware-IOCs/blob/main/2024-03-27%20FakeUpdates%20IOCs
-# Reference: https://www.virustotal.com/gui/file/041be18344ea8da345923dd5d2421ad79ed888bca4a9ceebe0aa1030c75e5602/detection
-
-/00b977b5ca6bb253.php
-/0156a772a135ba9f.php
-/0243ec92ae2268d1.php
-/05b89c2203fb7bde.php
-/08f7c1a754119dda.php
-/09c9de54c6be1727.php
-/09e4d23b10828340.php
-/0cf6bfa19d78b1fb.php
-/0fad59ad7536045a.php
-/1088863268ab0b62.php
-/10bfb33db816f4b6.php
-/11acf293b39e9ca9.php
-/11da1c02f1899731.php
-/129edec4272dc2c8.php
-/13cecbdad86667b0.php
-/14514d160075033b.php
-/14baef17b6d04c23.php
-/155736047db03637.php
-/1569b69c95a21d02.php
-/1655d0b0e8ecab2d.php
-/16b371d42fb67a99.php
-/17303af8450cc290.php
-/18d098f4b1370ff7.php
-/18e7847188a1b7bd.php
-/1afb7d7c2e47bc96.php
-/1b17ccc0c3d00b18.php
-/1ba5bb0d68094a78.php
-/1c80d1b40e06f613.php
-/1d9e38415ea54afa.php
-/1da263bff25c8346.php
-/1e9258f73c297510.php
-/1eee64e8b97cf4c0.php
-/1f1ba0e25ee80277.php
-/1fa9cf51b66b1f7e.php
-/21b9c0db1dfb4718.php
-/2358d131c82bf789.php
-/244cbe83570df263.php
-/25d4fc7fb0cb6b78.php
-/27e2c065315ea17e.php
-/29b7525be881c8ea.php
-/29dca981ee82db8c.php
-/2b1fd477f413315b.php
-/2c843dccbeb16860.php
-/2e12d77e23b78d01.php
-/300e6d86f44da037.php
-/31b57f88e9b186cd.php
-/31dd08d447d463d4.php
-/31f2a38ac74a9d54.php
-/32995c13678be6b6.php
-/329b7da7ac4c3538.php
-/33fecaaa07623b61.php
-/367d40b2d35bfd9b.php
-/385785d59336a866.php
-/3886d2276f6914c4.php
-/3887d9245e395091.php
-/3aa13fff14e398a1.php
-/3abba6c092087efb.php
-/3b4f49719257c673.php
-/3b7d27a7af0da219.php
-/3cd2b41cbde8fc9c.php
-/3cd43889ddd6a80f.php
-/3d980df4aa7e4a91.php
-/3deaa9ad0a7dbabc.php
-/40d570f44e84a454.php
-/40dbbf2fac0226a6.php
-/410b5129171f10ea.php
-/41d2cff0d1206cba.php
-/43851895e447afd7.php
-/43e18f2a3b646c54.php
-/46212e2326deb951.php
-/482ca91956745c96.php
-/48a8a6cd726abeec.php
-/49621a18efb46765.php
-/4a7a990a47cd52ad.php
-/4b91eb784a77478c.php
-/4d4d3a49ccbc77eb.php
-/4e6508e4090e861a.php
-/4e815d9f1ec482dd.php
-/4ea69013b92ecb73.php
-/4f230c0dd4efa481.php
-/5065bfaf5315fdfb.php
-/507d5f6a261ae9ed.php
-/518893e599328c52.php
-/5196ba262b6d60e7.php
-/522d6f9280951d7f.php
-/5441a82c9941418d.php
-/56f47e918c5386bf.php
-/582e11ffc8500b8f.php
-/585a069844ca672e.php
-/59b232f2b6dc5770.php
-/5ae84a6abb1a9a5b.php
-/5b470b53a9d137ee.php
-/5c06c05b7b34e8e6.php
-/5d4f090c730016b1.php
-/5dce321003e6a6b5.php
-/5edef101caff1aeb.php
-/603aeb43718ab133.php
-/60ed11b9deeca694.php
-/61075d6e14fcb071.php
-/626e62981e663996.php
-/628ddfb216f373ea.php
-/6333ebeebfa39cd2.php
-/6338efb1723e277d.php
-/649938577e826117.php
-/6747f50ff0a064fd.php
-/68517e86206d47d9.php
-/693386d591752f22.php
-/69b3ae67feef2db7.php
-/6a9f8e2503d99c04.php
-/6b989c9d91160b88.php
-/6d39c24c1b988e61.php
-/6e26382b1807d1b9.php
-/6ef96e7190cc7acd.php
-/70434c9d1b55ce63.php
-/7043a0c6a68d9c65.php
-/70664a52ad417ca5.php
-/722c81812703a73d.php
-/7276296f1d284397.php
-/72cd883ebd748330.php
-/72e62e029dc81ebf.php
-/7322cd0544d1389a.php
-/73354587f0a8b50c.php
-/7525b57b5f844240.php
-/75c330d4b64e47af.php
-/75e7ead3c17835de.php
-/77aed9f7a55e1443.php
-/79a4685f16037964.php
-/7a03fb9d4773da33.php
-/7a30931b86e576c1.php
-/7a8cfa6ac1363434.php
-/7b50f8c270624cf1.php
-/7b7c07c1b3625773.php
-/7baff47bec0ff5db.php
-/7c94d1cc56751853.php
-/7cbe0291fb78f157.php
-/7d2562ceb045ed06.php
-/7ea86bf53b29dae5.php
-/7fccc9d3fd3c8699.php
-/80345778030edaf1.php
-/812472d22955f523.php
-/82de66e9459cdb5f.php
-/838d8918a5621059.php
-/853aaed2e28950b2.php
-/8569064d5363f710.php
-/85db914bf164fb6c.php
-/8681490a59ad0e34.php
-/86d110a6ca1786a5.php
-/8882f656e94df309.php
-/889842668f48cc70.php
-/88f3e0ab5b24337d.php
-/8aa296a5a560dea2.php
-/8c790830ecbaab3b.php
-/8d7eb205be988bbb.php
-/8f2f4cb4b10b6e96.php
-/902e53a07830e030.php
-/9046019a53d66236.php
-/91541f2f0ca4ecd4.php
-/94ed4bf54583a4fa.php
-/976a2eda99155f48.php
-/9787806e0e289839.php
-/9827126d94c3e848.php
-/982c183d8a9835c6.php
-/990ecb7630625681.php
-/9a54e32a8b27f71c.php
-/9af57c9106bf2c01.php
-/9cb3d6163ee69f03.php
-/9fd9dde806b954c2.php
-/a1ea3a79a94605ef.php
-/a2f524d70db7d1a7.php
-/a431f538ac55c20c.php
-/a68326a8bd26a679.php
-/a69d09b357e06b52.php
-/a6d914969291bf07.php
-/a737400ffa5db996.php
-/a7b9969886761113.php
-/a8ae018f1ad770f9.php
-/a8ed39255f1c5109.php
-/abdf030235da153b.php
-/ae2e04e22dac63e2.php
-/aebba6766a94d98b.php
-/af1048e6cc914eaf.php
-/b029e4e66ef421e6.php
-/b231626d9e77b712.php
-/b2ecfe73736f99f5.php
-/b36760e16933b668.php
-/b5186114a247f330.php
-/b5c26998bb7c2272.php
-/b5c586aec2e1004c.php
-/b5e0972e09e482c4.php
-/ba5174e41df731d8.php
-/ba7ec45efcfa89a3.php
-/ba91ff2f6a996325.php
-/baab78e0088a8664.php
-/bcbdd35a8286b150.php
-/bd852d02e12e1520.php
-/bded386f853bed13.php
-/bed95ea4798a5204.php
-/bf7893cc2d43c936.php
-/c36258786fdc16da.php
-/c41508a3857f34c3.php
-/c44a765f550f6a2f.php
-/c512076c2057872e.php
-/c52446cd272c84b7.php
-/c57d4dee0da36d49.php
-/c698e1bc8a2f5e6d.php
-/c85cabe680e08506.php
-/c8ad9b0ca19c816d.php
-/c8d1769211d0cfb0.php
-/c92a19ea55c5076e.php
-/c9cac53e5e9ec7ba.php
-/caae677175cf27ed.php
-/caf30a92b9c4fec2.php
-/cc18c73c655f48b7.php
-/cdc8cb4ba5f9dfaa.php
-/cf2bf91a3641f615.php
-/cf5cbdf706840b3f.php
-/d04727a8ed5e33a1.php
-/d130c39575999622.php
-/d27b1d581e3729a6.php
-/d3593c5aaea066ab.php
-/d522566a552de05d.php
-/d88e594c8a5bc165.php
-/d9e6a8dee399ba79.php
-/da4d23fa59600f9c.php
-/db7555ee1aa3ef39.php
-/dd38f9377d068411.php
-/e2f2e5114a761f4b.php
-/e4ebc4b8c00b7089.php
-/e50a8a413d120466.php
-/e50ac16f7b113954.php
-/e5f9db40aa1d5c5c.php
-/e64f36763e423a50.php
-/e80131c8e877ed2e.php
-/e9131e1df8a3fa06.php
-/e9c345fc99a4e67e.php
-/eb132e03b76d10bd.php
-/eb488f9cb9d466ca.php
-/eb6f29c6a60b3865.php
-/eba140b7c5f2f228.php
-/ecd46953920f5bde.php
-/ed477c8cc2206093.php
-/ed9891f07f96bfb8.php
-/eddb6f7ac3df755b.php
-/edf04ce5e57d0f66.php
-/ee4bbae3ded73edf.php
-/ef05b005854373ec.php
-/ef0b5c6106fc176f.php
-/f0b7b22cedd39d91.php
-/f242026083c87346.php
-/f2cb651e3e755a0f.php
-/f6a046f8befb95a1.php
-/f71b3857ccea70c5.php
-/f95721327cee196f.php
-/f993692117a3fda2.php
-/fd07ec3137071f71.php
-/fdca69ae739b4897.php
-/fefb4a458e1dc58b.php
 
 # Reference: https://twitter.com/drb_ra/status/1700478808501993895
 
@@ -8578,12 +8189,539 @@ cachline.com
 
 /RemoteAssistanceSvc.hta
 
-# Reference:
+# Reference: https://www.virustotal.com/gui/ip-address/1.15.44.211/relations
 
 /m3wtw0.xml
 
+# Reference: https://x.com/500mk500/status/1819325319565758518
+
+/xss.hta
+/xss.js
+/xss.xspf
+
+# Reference: https://x.com/Huntio/status/1820797152085582112
+# Reference: https://moonlock.com/loom-macos-stealer
+
+/yvfiubhferwewf/process_l00m.php
+/yvfiubhferwewf/
+
+# Reference: https://x.com/9823f_/status/1820807344638279761
+# Reference: https://urlscan.io/search/#filename%3A%22php_en-e372bb40.js%22
+
+/php_en-e372bb40.js
+
+# Reference: https://x.com/lontze7/status/1821042477022822834
+
+/262f6e0.php
+/2f20376.php
+/5edec54.php
+
+# Reference: https://x.com/JAMESWT_MHT/status/1821171522074984552
+
+/97075184016hjaksjxjzwc
+/jU8OTI-qnvhjeIB0-W7q7EvR4-dacb47a/index.html
+/jU8OTI-qnvhjeIB0-W7q7EvR4-dacb47a/
+
+# Reference: https://www.joesandbox.com/analysis/1393952#iocs
+# Reference: https://tria.ge/240617-vg68tazhkm/behavioral2
+
+/gAySB.php
+/gAySB.php?cnv_id=
+
+# Reference: https://x.com/malwrhunterteam/status/1828028438407479788
+# Reference: https://www.virustotal.com/gui/file/0077647aa98f096591f70bbd3f1a0364b56c5e39f68ed85509b28a31b2d4f869/detection
+
+/0day.asp
+/0day.aspx
+/0day.bat
+/0day.hta
+/0day.js
+/0day.ps1
+/0day.py
+/0day.txt
+/0day.vbs
+/0day.wsf
+/0day.xsl
+
+# Reference: https://x.com/banthisguy9349/status/1828499255184552253
+
+/Payload.kt
+/ViewInjectionsad.kt
+
+# Reference: https://www.virustotal.com/gui/file/faf05cc7a617e771f061ed131429ccacfe9039634cbd0259c455c3e8baa6a129/detection
+
+gatetodisplaycontent.com
+/3d336374d870f17c9375aee0e6779e7b/invoke.js
+
+# Reference: https://x.com/0Dayhta/status/1828461255784378562
+
+/cd_v2_x64.xsl
+/cd_v2_x86.xsl
+/cd_v4_x64.xsl
+/cd_v4_x86.xsl
+
+# Reference: https://www.virustotal.com/gui/file/828616945d46a2c161c17d88f0f8dd0b890107ec200551ad9b9836d71833fb6a/detection
+
+/downloadfaxfile28071991.php
+
+# Refernce: https://x.com/StrikeReadyLabs/status/1830774821795274784
+
+/Filex1.hta
+/Filexxx.hta
+/Filexxx2.hta
+/KKKKKKK1.hta
+/x1.hta
+/xxx.hta
+/xxx2.hta
+
+# Reference: https://www.virustotal.com/gui/file/8d31ed88202e42a456cef92be1da6e91ee89f763b12e9cddca525453a8d86d6c/detection
+
+/elonkat/jyujuytyt.php
+/jyujuytyt.php
+
+# Reference: https://x.com/kddx0178318/status/1834200990565773334
+# Reference: https://www.virustotal.com/gui/file/48e74d11c58e4942e394f3f16ffe7446c73884b0a5df0fc89c7f2b94a43f4152/detection
+
+/30f5d97a11d32e80.php
+
+# Reference: https://x.com/RacWatchin8872/status/1836777407996448978
+
+/reverse-shell.ps1
+
+# Reference: https://x.com/banthisguy9349/status/1838597449910251943
+# Reference: https://www.joesandbox.com/analysis/1477772/0/html
+
+/internet_put222.php?id=
+/k_get.php?bot=
+/k_get_new.php?bot=
+/k_put_new.php?id=
+/o_get.php?uid=
+
+# Reference: https://x.com/Gi7w0rm/status/1838827132174115212
+
+/PhishMailer.py
+
+# Reference: https://x.com/banthisguy9349/status/1839937406969020433
+
+/ips_dk0.ps1
+/ips_reverse_https_dk0.ps1
+
+# Reference: https://x.com/banthisguy9349/status/1839929495718932634
+
+/141174.php
+/80gm76k.php
+/adxkylg.php
+/qgadvr0.php
+/xbhde.php
+/yrw2qif.php
+
+# Reference: https://www.virustotal.com/gui/file/d472c895106cfebcb6eea8701416aed96b9770c256432ee7ee7a9b8a60a6d254/detection
+
+/netbooknewthingsforupdnow.hta
+
+# Reference: https://www.virustotal.com/gui/file/5f7ede06fa8da808f891e29fcfc533fcab3f7e9bc02ad68d0e5b24fe006fcbe5/detection
+
+/IEnetbookupdation.hta
+
+# Reference: https://x.com/banthisguy9349/status/1842246259765088421
+
+/data/1x_stc.js
+/1x_stc.js
+
+# Reference: https://sansec.io/research/cosmicsting
+
+/?exploited=
+
+# Reference: https://x.com/banthisguy9349/status/1842944347417014304
+
+/nmap-payloads
+/payload.xml
+/payload1.txt
+/payload2.txt
+/payload3.txt
+/payload4.txt
+/payload5.txt
+/payload6.txt
+/payload7.txt
+/payload8.txt
+/payload9.txt
+/payload_arc.hta
+/payload_arm.hta
+/payload_arm4.hta
+/payload_arm4l.hta
+/payload_arm4t.hta
+/payload_arm4tl.hta
+/payload_arm4tll.hta
+/payload_arm5.hta
+/payload_arm5l.hta
+/payload_arm5n.hta
+/payload_arm6.hta
+/payload_arm64.hta
+/payload_arm6l.hta
+/payload_arm7.hta
+/payload_arm7l.hta
+/payload_arm8.hta
+/payload_armv4.hta
+/payload_armv4l.hta
+/payload_armv5l.hta
+/payload_armv6.hta
+/payload_armv61.hta
+/payload_armv6l.hta
+/payload_armv7l.hta
+/payload_dbg.hta
+/payload_exploit.hta
+/payload_i4.hta
+/payload_i486.hta
+/payload_i586.hta
+/payload_i6.hta
+/payload_i686.hta
+/payload_kill.hta
+/payload_m68.hta
+/payload_m68k.hta
+/payload_mips.hta
+/payload_mips64.hta
+/payload_mipseb.hta
+/payload_mipsel.hta
+/payload_mpsl.hta
+/payload_pcc.hta
+/payload_powerpc.hta
+/payload_powerpc-440fp.hta
+/payload_powerppc.hta
+/payload_ppc.hta
+/payload_ppc2.hta
+/payload_ppc440.hta
+/payload_ppc440fp.hta
+/payload_root.hta
+/payload_root32.hta
+/payload_sh.hta
+/payload_sh4.hta
+/payload_sparc.hta
+/payload_spc.hta
+/payload_ssh4.hta
+/payload_x32.hta
+/payload_x64.hta
+/payload_x86.hta
+/payload_x86_32.hta
+/payload_x86_64.hta
+/payload_arc.ps1
+/payload_arm.ps1
+/payload_arm4.ps1
+/payload_arm4l.ps1
+/payload_arm4t.ps1
+/payload_arm4tl.ps1
+/payload_arm4tll.ps1
+/payload_arm5.ps1
+/payload_arm5l.ps1
+/payload_arm5n.ps1
+/payload_arm6.ps1
+/payload_arm64.ps1
+/payload_arm6l.ps1
+/payload_arm7.ps1
+/payload_arm7l.ps1
+/payload_arm8.ps1
+/payload_armv4.ps1
+/payload_armv4l.ps1
+/payload_armv5l.ps1
+/payload_armv6.ps1
+/payload_armv61.ps1
+/payload_armv6l.ps1
+/payload_armv7l.ps1
+/payload_dbg.ps1
+/payload_exploit.ps1
+/payload_i4.ps1
+/payload_i486.ps1
+/payload_i586.ps1
+/payload_i6.ps1
+/payload_i686.ps1
+/payload_kill.ps1
+/payload_m68.ps1
+/payload_m68k.ps1
+/payload_mips.ps1
+/payload_mips64.ps1
+/payload_mipseb.ps1
+/payload_mipsel.ps1
+/payload_mpsl.ps1
+/payload_pcc.ps1
+/payload_powerpc.ps1
+/payload_powerpc-440fp.ps1
+/payload_powerppc.ps1
+/payload_ppc.ps1
+/payload_ppc2.ps1
+/payload_ppc440.ps1
+/payload_ppc440fp.ps1
+/payload_root.ps1
+/payload_root32.ps1
+/payload_sh.ps1
+/payload_sh4.ps1
+/payload_sparc.ps1
+/payload_spc.ps1
+/payload_ssh4.ps1
+/payload_x32.ps1
+/payload_x64.ps1
+/payload_x86.ps1
+/payload_x86_32.ps1
+/payload_x86_64.ps1
+/yaml-payload11.jar
+/yaml-payload111.jar
+/yaml-payload12.jar
+/yaml-payload2.jar
+/yaml-payload3.jar
+/yaml-payload4.jar
+/yaml-payload5.jar
+/yaml-payload6.jar
+/yaml-payload99.jar
+/yaml-payload.jar
+
+# Reference: https://x.com/kddx0178318/status/1843659566955016274
+
+/!NB12538z/i40vy0n.php
+/!NB12538z/
+/i40vy0n.php
+
+# Reference: https://x.com/banthisguy9349/status/1847175329120460936
+
+/btc_eng.hta
+/btc_pt.hta
+
+# Reference: https://urlscan.io/search/#page.url%3A%2Fhttps%3F%3A%5C%2F%5C%2F%5B0-9%5C.%5D%2B%5C%2F%5Ba-z0-9%5D%7B16%7D%5C.php%2F
+
+/gadsz15mt25ybi5i.php
+/getnationranking.php
+/index91484101498.php
+/indexholddesktop.php
+/linewindowstrack.php
+/moduloatualizado.php
+/portallockunlock.php
+/processmeterpost.php
+/processorbigload.php
+/processorprivate.php
+/providerphptrack.php
+/pythonsecuretemp.php
+/salepopupklaviyo.php
+/vikashmitralogin.php
+/vmmultiwordpress.php
+/wfgfgf232323900x.php
+
+# Reference: https://x.com/banthisguy9349/status/1850632987844759664
+# Reference: https://www.virustotal.com/gui/file/dd9fa916c5f14c66b2e83243808072d2b084828167f9f2029366c91023c49532/detection
+# Reference: https://www.virustotal.com/gui/file/5a9a05d8b295d6c1ac506532cdbf631ad538a8e33e0d4bc9bc486851ff00cb10/detection
+
+/sigthief.py
+
+# Reference: https://x.com/StrikeReadyLabs/status/1852338012488634491
+
+/InvestmentAdvisersAct2.hta
+
+# Reference: https://x.com/1ZRR4H/status/1854029075720851965
+
+/inerr.ps1
+
+# Reference: https://x.com/banthisguy9349/status/1854575385964368184
+
+/BsO7Pc4leIEmwdV.ps1
+
+# Reference: https://x.com/raghav127001/status/1854686323950629206
+
+/Invoke-Mimi.ps1
+/Invoke-Portscan.ps1
+/Invoke-PowerShellTcpOneLine.ps1
+/Invoke-SessionHUnter.ps1
+/amsibypass.txt
+
+# Reference: https://x.com/alexocheema/status/1856295635143524378
+
+/stage1payload
+
+# Reference: https://x.com/banthisguy9349/status/1856305175285154036
+
+/ransom.ps1
+
+# Reference: https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims
+
+/cookienetbookinetcahce.hta
+
+# Reference: https://x.com/cyberfeeddigest/status/1858258809778507868
+
+/emotewipe.ps1
+/emotewipe2.ps1
+
+# Reference: https://x.com/malwrhunterteam/status/1862624900592119903
+# Reference: https://www.virustotal.com/gui/file/e29d2bd946212328bcdf783eb434e1b384445f4c466c5231f91a07a315484819/detection
+
+/wp-includes/barasinghaby.ps1
+/wp-includes/neocolonialXAW.php
+/wp-includes/phyllopodan7V7GD.php
+/barasinghaby.ps1
+/neocolonialXAW.php
+/phyllopodan7V7GD.php
+
+# Reference: https://x.com/banthisguy9349/status/1864282025579987072
+
+/1krecrypted.cmd
+
+# Reference: https://x.com/Gi7w0rm/status/1864308600841068864
+
+/Network4726Man.cmd
+
+# Reference: https://x.com/solostalking/status/1864532060896924136
+
+/azured_decrypt_msol_v2.ps1
+/php_reverse_shell.php
+
+# Reference: https://x.com/banthisguy9349/status/1866121920808419751
+
+/!HELP_SOS.hta
+
+# Reference: https://isc.sans.edu/diary/Exploit+attempts+for+unpatched+Citrix+vulnerability/31446
+
+/script_xen80-mix.php
+
+# Reference: https://x.com/x86rax/status/1871278843404894464
+# Reference: https://x.com/ViriBack/status/1871287287860146425
+
+/euqhdsvm.php
+/gkkglqfm.php
+/lheqfjem.php
+/ljlgmtqf.php
+
+# Reference: https://x.com/ValidinLLC/status/1873676244392571286
+# Reference: https://www.validin.com/blog/tycoon_2fa_analyzing_and_hunting_phishing-as-a-service_domains/
+
+/res444.php
+
+# Reference: https://x.com/JAMESWT_MHT/status/1874365729832870023
+# Reference: https://www.virustotal.com/gui/file/e35d7ef701e2a95c6a9f13e379aeb8aac96dd99573e02d87daee3dd120322bce/detection
+# Reference: https://www.virustotal.com/gui/file/5d8b55532cda3855a8211e70366648a22ef5193dd36931fa61e3393290c2ada9/detection
+
+/trwsfg.ps1
+/vfrcxq.ps1
+
+# Reference: https://x.com/banthisguy9349/status/1875599493967835437
+
+/beans_shel.xml
+/beans_shel1.xml
+/beans_shel2.xml
+/beans_shel3.xml
+/beans_shel4.xml
+/beans_shell.xml
+
+# Reference: https://x.com/Slvlombardo/status/1879619287440413112
+
+/rtaownnow/rrrtttmmmw.php
+/rtaownnow/
+/rrrtttmmmw.php
+
+# Reference: https://x.com/malwrhunterteam/status/1887071048455139621
+
+/PWS.vbs
+/pws1.vbs
+/startupppp.bat
+
+# Reference: https://x.com/solostalking/status/1889733513173172414
+
+/dajkod.ps1
+
+# Reference: https://x.com/JAMESWT_MHT/status/1890017207633293440
+
+/T5Y2B6V32C/index05485643214.php
+/index05485643214.php
+
+# Reference: https://threatfox.abuse.ch/ioc/1403883/
+
+/api/get/inj
+/api/get/inject
+/api/get/injector
+
+# Reference: https://x.com/Merlax_/status/1893073216400248974
+
+/cjFuHeYmH01c.html
+/dZAohJEYH01J.html
+/gIbojmsyvH01b.html
+/latigFcmH01M.html
+/myKOJmrYoNIuIH01J.html
+/sQNFyCTHftJH01X.html
+
+# Reference: https://x.com/malwrhunterteam/status/1893968102259396881
+
+/sfsdfikcdfti9/tsync.bat
+/sfsdfikcdfti9/
+
+# Reference: https://x.com/csideai/status/1892594410149318692
+# Reference: https://cside.dev/blog/over-35-000-websites-targeted-in-full-page-hijack-linking-to-a-chinese-language-gambling-scam
+# Reference: https://app.validin.com/detail?find=db4adf52b330ca1061ff0ef44ef9cdf9&type=hash&ref_id=3d0262671fd#tab=host_pairs (# 2025-02-24)
+
+/m_c_b28cd5c86f08a2b35c766fc4390924de.js
+/go/kaiyun1/ky.html
+/js/24/12/7/ky1.js
+/js/25/1/8/ky1.js
+/js/25/2/y/ky3.js
+
+# Reference: https://x.com/malwrhunterteam/status/1898285268647444952
+# Reference: https://www.virustotal.com/gui/file/d2469fa3615ca83da082ccc41da9ff7a4913257af5f977e78e3f27154559c45f/detection
+# ReferencE: https://www.virustotal.com/gui/file/c59fb533002f7a7db4c4cde96d7debc5c9d96fd55881d333a12f6b7ea39683e5/detection
+# Reference: https://www.virustotal.com/gui/file/ab2d99b8086c52141025dc1430d06337e754e0fa9a9989e7f24b7cfd0be52561/detection
+# Reference: https://www.virustotal.com/gui/file/a10dc6149fa3610bd4a78e0db784e918e428c37b8d10dcce21523cdb6bfb9810/detection
+# Reference: https://www.virustotal.com/gui/file/a09721158214a0fc57471a78fe1606bf095a683d2c6c124f01be10e64e568297/detection
+# Reference: https://www.virustotal.com/gui/file/6e7ba7c9f76bbdc9a4babf68bb41d2375b19c5f01f456b381b8974ad07311bd1/detection
+# Reference: https://www.virustotal.com/gui/file/2c4d09e941105fff3bdbde7cf6f72be55a881a14bc5e0a3efcd3efeee92e17af/detection
+# Reference: https://www.virustotal.com/gui/file/1339a8867e8f04e12cc7543c548a33ac7b94dcba591e2da8b9ae2df24687c99e/detection
+
+/getdatapass7bakpro.php
+/getdatapass7baktest.php
+/getdatapass7baktest88.php
+/getdatapass7ok.php
+/getdatapassmain.php
+/getdatapassqiang.php
+
+# Reference: https://x.com/JAMESWT_MHT/status/1899020613701742638
+
+/50MJLUM311KPUPO3/index.php
+
+# Reference: https://x.com/CreateFileInt_/status/1899088994090000727
+
+/api/rastreamento.php?cpf=
+/liberacao/rastreamento.php?cpf=
+/v2/rastreamento.php?cpf=
+/rastreamento.php?cpf=
+
+# Reference: https://x.com/salmanvsf/status/1901517210260062360
+# Reference: https://www.virustotal.com/gui/file/d4e60f44103331275740326b4e6016a5f9f84ee2cfb0c2149f9b90530b21e6ef/detection
+
+/Win1234.js
+
+# Reference: https://x.com/karol_paciorek/status/1902455994741092501
+
+/kuipz5q2vg46.js
+
+# Reference: https://x.com/skocherhan/status/1903173695922655248
+
+/devil.ps1
+/GUYBIN.ps1
+/KENNNTTT.ps1
+/kenttt.ps1
+/MULK.ps1
+/STEPH.ps1
+/xenn.ps1
+/YG.ps1
+
+# Reference: https://x.com/ShanHolo/status/1902659366051835914
+
+/bestexperienceigotfromtheworldfromthegood.hta
+
+# Reference: https://x.com/ShanHolo/status/1902639209153769953
+# Reference: https://www.virustotal.com/gui/file/483b97a047188b7140cf3075506576df8b3300ffa13049405be934d5084fddda/detection
+
+/givenmebestthingsentiretimetogivemebestof.hta
+
+# Reference: https://www.virustotal.com/gui/file/43c102f2db55c353e0e24fdc0e6c935093de02162e7b564f0881453058a0fdcc/detection
+
+/mirrorgate1
+/mirrorgate2
+/mirrorgate3
+
 # Generic
 
+/5c0ca79.php
 /js/altmanluggage.js
 /js/aureliaskincare.js
 /js/bluerooster.js
@@ -8666,16 +8804,17 @@ cachline.com
 /gggate.php
 /gAy5B.php
 /Invoke-Phant0m.ps1
+/jqwery.js
 /online-dating-verification-card.php
 /ravufgate.php
 /screenshot_gate.php
 /tgate.php
 /testgate.php
-/test_gate0117.php
 /verification-card.php
 /1drvme/
 /payload/openAttach/
 /payload/openAttache/
 /payload/openAttachment/
+/payload/remote/
 /modified_ploader.cpp
 /ploader.cpp

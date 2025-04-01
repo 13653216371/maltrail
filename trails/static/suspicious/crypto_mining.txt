@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://hackforums.net/printthread.php?tid=5655422
@@ -1306,10 +1306,13 @@ soloxmr2min.dyndns.org
 51.15.193.130:10343
 51.15.58.224:10343
 
+# Reference: https://x.com/malwrhunterteam/status/1893953320223396042
 # Reference: https://www.virustotal.com/gui/file/7410bec5806e8ad2b0e3b3d56bb40f276b7e75ec2235ecc2e5e283ba3541733b/detection
+# Reference: https://www.virustotal.com/gui/file/a92a974c1ccda34b48c1416377b76b94e82902b32c54b5f7637497f2c334c9c5/detection
 
 163.172.154.142:10343
 51.68.143.81:10343
+54.37.137.114:10343
 
 # Reference: https://twitter.com/banthisguy9349/status/1735212305946689707
 
@@ -1417,3 +1420,74 @@ de-zephyr.miningocean.org
 51.15.89.13:10943
 51.15.89.17:10943
 zeph-eu2.nanopool.org
+
+# Reference: https://x.com/malwrhunterteam/status/1818245100251615266
+# Reference: https://www.virustotal.com/gui/file/3bb3dbb608780e8d14193100dd7fcbcd8a68cb43fe2ad705c990fe8015f2a99a/detection
+
+129.226.111.18:33333
+43.129.150.140:33333
+43.129.150.155:33333
+43.129.150.53:33333
+47.76.24.49:33333
+5.161.70.189:33333
+c3.wptask.cyou
+
+# Reference: https://www.virustotal.com/gui/file/5f838d04ded091db91c69f7107e43bb0ec1db3b472e75c2d647cd3a53ed6db69/detection
+
+51.195.127.124:7777
+kryptex.network
+xmr.kryptex.network
+
+# Reference: https://www.virustotal.com/gui/file/e23b9cae980fa0271cd0a2301f3d4cb67b55c689fd9e1f499b875f61487fcdce/detection
+
+107.167.83.34:3333
+107.167.92.130:3333
+
+# Reference: https://www.virustotal.com/gui/file/f23470688cea62fb7b3dfcf75fff0ad7cc31386cca92ec5214d87fd0efa93698/detection
+
+195.201.190.170:1230
+salvium.herominers.com
+de.salvium.herominers.com
+
+# Reference: https://www.virustotal.com/gui/file/8a99b284aef50ecd153cc7f2416ac0f3154b32d1e16a93217213ad31c84b138c/detection
+# Reference: https://www.virustotal.com/gui/file/e3801874cc5d57f0f249ba6499d6c870e2a1ed6f695ada3389cbf19ed2c85d6e/detection
+
+141.94.96.144:3333
+
+# Reference: https://www.virustotal.com/gui/file/4d8b4804588694ae16f0d5ce61b1e75630657faf320123402c1f322c93fe2443/detection
+
+141.95.98.19:2222
+2miners.com
+zeph.2miners.com
+
+# Reference: https://www.virustotal.com/gui/file/ab41e347fec54af86ef8edd98c695a7e856a93a30cd07a89d7669896b419b92b/detection
+
+141.94.23.83:10300
+51.15.65.182:10300
+54.37.232.103:10300
+
+# Reference: https://www.virustotal.com/gui/file/05a9d7a61ea58700da1cbd17e8cf648339bb2cc4bba7b2c08c949889efb74055/detection
+
+51.15.54.102:14444
+
+# Reference: https://www.virustotal.com/gui/file/a4c4487dcacebf5048b2266233f5645cfe421154f26e6685ced36aa0621037f1/detection
+
+pool-de.supportxmr.com
+
+# Reference: https://www.virustotal.com/gui/file/9b9232c180b724d451846420deabea387b47f02c7b1dbdcd3bcb2092d75dc322/detection
+
+108.61.205.10:23620
+149.248.63.116:23620
+149.28.186.121:23620
+45.76.145.66:23620
+91.121.209.203:23620
+ultra-pool.com
+kubo.ultra-pool.com
+
+# Reference: https://www.virustotal.com/gui/file/6b54055656fde365b2445fa20efe9759caff7be2c01a33ab1679ee3a78a9005e/detection
+# Reference: https://www.virustotal.com/gui/file/670ebdf514ae0062df47493bc3c938645ce0516b135bd3012e8bf1dbe7374c41/detection
+
+149.248.63.116:5860
+149.28.186.121:5860
+202.91.32.72:5860
+207.148.1.121:5860

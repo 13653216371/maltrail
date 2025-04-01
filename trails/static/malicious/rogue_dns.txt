@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 # Reference: https://twitter.com/bad_packets/status/1079251375987425280
@@ -348,10 +348,6 @@ ns2.firstdnshoster.com
 
 172.245.211.58:53
 23.94.66.186:53
-
-# Reference: https://twitter.com/MichaelMburu_/status/1119243257203048448
-
-172.27.197.232:53
 
 # Reference: https://twitter.com/ninoseki/status/1104181886824243200
 

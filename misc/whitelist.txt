@@ -1,4 +1,4 @@
-# Copyright (c) 2014-2024 Maltrail developers (https://github.com/stamparm/maltrail/)
+# Copyright (c) 2014-2025 Maltrail developers (https://github.com/stamparm/maltrail/)
 # See the file 'LICENSE' for copying permission
 
 localhost
@@ -297,6 +297,7 @@ garr.it
 gigabyte.com
 gimp.org
 googleapis.com
+play.googleapis.com
 google.com
 googlesyndication.com
 gpsonextra.net
@@ -824,7 +825,6 @@ rbl.efnetrbl.org
 rbl.fasthosts.co.uk
 rbl.interserver.net
 rbl.iprange.net
-rbl.lugh.ch
 rbl.megarbl.net
 rbl.orbitrbl.com
 rbl.polarcomm.net
@@ -4011,3 +4011,99 @@ brew.sh
 docusign.net
 polaris.me
 powerdms.com
+
+# Reference: https://github.com/stamparm/maltrail/commit/1bda0a4aea0d0fc6684b8a734d9db393df52c74d
+
+tokenlon.im
+
+# Reference: https://www.virustotal.com/gui/domain/myseosucks.com/relations
+
+myseosucks.com
+
+# Reference: https://www.virustotal.com/gui/domain/cloudflarestorage.com/relations
+
+cloudflarestorage.com
+
+# Reference: https://github.com/stamparm/aux/issues/13
+# Reference: https://github.com/stamparm/maltrail/commit/7460f550e6b21ad6797e49d855aacc2e6646eee3
+
+slug.vercel.app
+
+# Reference: https://x.com/Cyber0verload/status/1833422623318933865
+
+1-you.njalla.no
+2-can.njalla.in
+3-get.njalla.fo
+you.can-get-no.info
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4763
+# Reference: https://github.com/MikhailKasimov/validin-phish-feed/commit/09674bfe873e7412391cfc5bba0bfe633f08d846
+
+typeorm.io
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4767
+
+tau.how
+taubyte.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4771
+
+insomnia.rest
+
+# Reference: https://x.com/infok3k/status/1884197797060341784
+# Reference: https://forums.malwarebytes.com/topic/309197-false-positive/
+
+telega.one
+
+# Reference: https://github.com/stamparm/maltrail/issues/19295
+
+gggtracker.com
+
+# Reference: https://github.com/stamparm/maltrail/commit/748e99b23e46e72881bdac7c678278ae6c7ef32f
+
+s3.ap-southeast-1.wasabisys.com
+s3.us-west-1.wasabisys.com
+
+# Reference: https://github.com/stamparm/maltrail/commit/ff73434d350485510e73ae7fefabc561ac6c75b6
+
+icloud-content.com
+cvws.icloud-content.com
+
+# Reference: https://github.com/stamparm/maltrail/commit/c145da642c07c76bbdbbed11cc1f30ab3d21cc89
+
+freeapi.free.hr
+freechat.biz.id
+
+# Reference: https://github.com/stamparm/maltrail/commit/806f8a49d2423a8b5882f8828c3e2939aff3f76e
+
+telegram.dog
+
+# Reference: https://github.com/stamparm/maltrail/commit/0030faf3247abf7c982011455b794c37266f2094
+
+jamboreeindia.com
+staging.jamboreeindia.com
+
+# Reference: https://github.com/stamparm/maltrail/issues/19296
+
+files-accl.zohopublic.eu
+
+# Reference: https://threatfox.abuse.ch/ioc/1338516/
+
+rentry.co
+
+# Reference: https://github.com/stamparm/maltrail/issues/19299
+# Reference: https://otx.alienvault.com/indicator/hostname/d3e54v103j8qbb.cloudfront.net
+
+d3e54v103j8qbb.cloudfront.net
+
+# Reference: https://github.com/MikhailKasimov/validin-phish-feed/pull/8
+
+aimr.dev
+appolon.dev
+autoplus.gg
+keyauth.com
+vercel-dns.com
+
+# Reference: https://github.com/MikhailKasimov/validin-phish-feed/commit/f5b5fdc5d3ebe2357e7556fb2cd7c43eb26dd30d
+
+icloud.com
